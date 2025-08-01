@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rooot3301/Rooot3301/output/snake.svg" alt="Snake animation" />
+<img src="https://img.shields.io/github/actions/workflow/status/NoaSecond/NoaSecond/snake.yml?label=CI-GenerateSnake" />
 
 ###
 
