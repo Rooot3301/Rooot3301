@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: ROOT3301    # <-- mets ton handle EXACT (attention aux 0 vs o)
+          github_user_name: Rooot3301    # <-- mets ton handle EXACT (attention aux 0 vs o)
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
