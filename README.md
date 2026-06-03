@@ -4,8 +4,7 @@
 <br/>
 
 <p align="center">
-  Je gère l'infra de plusieurs clients à distance — firewalls, monitoring, EDR, virtualisation.<br/>
-  En dehors du boulot : homelab Proxmox, CTF, un peu de dev, et trop d'heures sur Star Citizen.
+  
 </p>
 
 <br/>
