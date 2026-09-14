@@ -1,102 +1,326 @@
-<h1 align="center">Root3301</h1>
-<h3 align="center">IT & Cybersecurity Technician · OSINT · Infrastructure · Homelab</h3>
+<div align="center">
 
-<br/>
+# `root@github:~$ whoami`
 
-<p align="center">
-  
-</p>
+### Root3301
 
-<br/>
+**Cybersecurity · Infrastructure · OSINT · Digital Investigation**
+
+*Building, securing and understanding systems — then probably breaking them again in the homelab.*
+
+<br>
+
+<a href="https://root3301.fr">
+  <img src="https://img.shields.io/badge/root3301.fr-Portfolio-18181B?style=for-the-badge&logo=firefoxbrowser&logoColor=white">
+</a>
+<a href="https://github.com/Rooot3301">
+  <img src="https://img.shields.io/badge/GitHub-Rooot3301-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.twitch.tv/Root33011">
+  <img src="https://img.shields.io/badge/Twitch-Root33011-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+</a>
+
+</div>
 
 ---
 
-### 🐍 Contributions
+## `> whoami`
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rooot3301/Rooot3301/output/github-contribution-grid-snake-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rooot3301/Rooot3301/output/github-contribution-grid-snake.svg?v=2" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Rooot3301/Rooot3301/output/github-contribution-grid-snake.svg?v=2" />
-  </picture>
-</p>
+I'm a 🇫🇷 **Cybersecurity & Infrastructure Technician** working with real-world production environments, Linux systems, virtualization, networking, endpoint security and automation.
+
+Outside of work, I spend most of my time experimenting with infrastructure, building tools, investigating how things work and running a slightly unreasonable homelab.
+
+```text
+root@github
+│
+├── cybersecurity
+│   ├── infrastructure security
+│   ├── digital investigation
+│   ├── network analysis
+│   ├── OSINT
+│   └── security automation
+│
+├── infrastructure
+│   ├── Linux
+│   ├── Proxmox / VMware
+│   ├── networking & firewalls
+│   ├── monitoring
+│   └── self-hosting
+│
+├── development
+│   ├── Python
+│   ├── Bash
+│   ├── JavaScript / Node.js
+│   └── automation tooling
+│
+└── side_quests
+    ├── homelab
+    ├── space & science-fiction
+    ├── Star Citizen
+    ├── content creation
+    └── 33011 Digital
+```
+
+My philosophy is pretty simple:
+
+> **Understand the system. Automate what can be automated. Secure what matters.**
 
 ---
 
-### 🔧 What I work with
+## `> cat current-focus.txt`
 
-**Infra & Sécurité**
+🔐 **Infrastructure security** — hardening, segmentation, endpoint protection and monitoring  
+🐧 **Linux** — administration, automation and migration of services  
+🕵️ **OSINT** — passive reconnaissance and digital investigation  
+⚙️ **Automation** — removing repetitive infrastructure work with scripts and tooling  
+🏠 **Homelab** — experimenting with networking, virtualization and self-hosted services  
+🔬 **Security research** — understanding systems from both defensive and offensive perspectives  
 
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
-![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=flat-square&logo=opnsense&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+---
+
+## `> ls ./stack`
+
+### Infrastructure
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![NinjaOne](https://img.shields.io/badge/NinjaOne-0066CC?style=flat-square&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=flat-square&logo=opnsense&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
+
+### Security & Monitoring
+
 ![SentinelOne](https://img.shields.io/badge/SentinelOne-6E1BFF?style=flat-square&logoColor=white)
+![NinjaOne](https://img.shields.io/badge/NinjaOne-0066CC?style=flat-square&logoColor=white)
 ![Graylog](https://img.shields.io/badge/Graylog-FF3633?style=flat-square&logo=graylog&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![AdGuard](https://img.shields.io/badge/AdGuard-68BC71?style=flat-square&logo=adguard&logoColor=white)
 
-**Dev & Outils**
+### Development & Automation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ---
 
-### 📌 Featured Projects
+## `> ls ./projects --featured`
 
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| [**Olissar**](https://github.com/Rooot3301/olissar) | Dashboard de monitoring self-hosted pour homelab Proxmox — métriques live, heatmaps uptime, historique events | Python · FastAPI · React · SQLite · Docker |
-| [**AstroVeille**](https://github.com/Rooot3301/astro-veille) | Site de référence Star Citizen FR — base de données ships + suivi des devs | En cours |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> *Les repos privés ne sont pas listés ici — la majorité du boulot tourne en interne.*
+### 🔍 NETTRACE
+
+**Passive OSINT domain analysis toolkit.**
+
+Collect and correlate publicly available information about domains without relying on paid APIs.
+
+**Features**
+- WHOIS analysis
+- DNS enumeration
+- Certificate transparency
+- Passive subdomain discovery
+- JSON / TXT reports
+- Domain trust scoring
+
+**Stack**
+
+`Python` `OSINT` `DNS` `WHOIS`
+
+<a href="https://github.com/Rooot3301/NETTRACE">View repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Ninjaa
+
+**Linux RMM Agent Manager.**
+
+Tooling designed to automate deployment, maintenance and diagnostics of RMM agents across Linux systems.
+
+**Features**
+- RPM & DEB support
+- systemd management
+- Agent health checks
+- Integrity verification
+- SELinux / AppArmor detection
+- Automation-friendly CLI
+
+**Stack**
+
+`Bash` `Linux` `systemd` `Automation`
+
+<a href="https://github.com/Rooot3301/Ninjaa">View repository →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 Stats
+## `> ./tracesic --status`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rooot3301&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rooot3301&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages" />
-</div>
+### 🐉 Tracesic
+
+**Digital Investigation Workspace — Work in progress**
+
+A local-first desktop workspace designed for cyber and forensic investigations.
+
+The objective is to bring together the different parts of an investigation into a single structured environment:
+
+```text
+case
+├── artifacts
+├── evidence
+├── notes
+├── timeline
+├── relationships
+└── reports
+```
+
+Built around the idea that investigation tooling should assist the analyst — **not replace their judgement**.
+
+`Python` · `PySide6` · `SQLite` · `SQLAlchemy` · `Pydantic`
+
+> Currently under development.
 
 ---
 
-### 🎵 Recently played
+## `> sudo homelab status`
 
-<div align="center">
+### 🏠 Homelab
+
+My homelab is where most bad ideas become good learning experiences.
+
+```text
+                         INTERNET
+                            │
+                            ▼
+                    ┌──────────────┐
+                    │   FIREWALL   │
+                    │   OPNsense   │
+                    └──────┬───────┘
+                           │
+                 VLANs / IDS / IPS
+                           │
+                    ┌──────▼───────┐
+                    │   NETWORK    │
+                    │    10 GbE    │
+                    └──────┬───────┘
+                           │
+                ┌──────────▼──────────┐
+                │       PROXMOX       │
+                │                     │
+                ├── Monitoring        │
+                ├── DNS               │
+                ├── Security tooling  │
+                ├── Development       │
+                ├── Self-hosting      │
+                └── Experiments       │
+                └─────────────────────┘
+```
+
+It gives me a playground to experiment with:
+
+`Virtualization` · `Networking` · `VLANs` · `Firewalls` · `Linux` · `Containers` · `Monitoring` · `Security`
+
+without discovering in production that *“technically it worked in the lab”*.
+
+---
+
+## `> ls ./other-interests`
+
+Cybersecurity isn't the only thing running in my brain.
+
+🚀 Space & space exploration  
+🌌 Science fiction  
+🛰️ Star Citizen & Squadron 42  
+📸 Virtual photography  
+🎥 Content creation  
+🛠️ Digital & community projects  
+
+I'm also building projects through **33011 Digital**, mixing technology, content and the universes I'm passionate about.
+
+---
+
+## `> git log --graph --oneline`
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Rooot3301/Rooot3301/output/github-contribution-grid-snake-dark.svg?v=2"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Rooot3301/Rooot3301/output/github-contribution-grid-snake.svg?v=2"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/Rooot3301/Rooot3301/output/github-contribution-grid-snake.svg?v=2"
+    />
+  </picture>
+</p>
+
+---
+
+## `> github-stats`
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Rooot3301&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true"
+    height="165"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Rooot3301&layout=compact&langs_count=6&theme=transparent&hide_border=true"
+    height="165"
+    alt="Most used languages"
+  />
+</p>
+
+---
+
+## `> spotify --recent`
+
+<p align="center">
   <a href="https://open.spotify.com/user/root3301">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=root3301&count=5&unique=true" alt="Spotify recently played" />
+    <img
+      src="https://spotify-recently-played-readme.vercel.app/api?user=root3301&count=5&unique=true"
+      alt="Spotify recently played"
+    />
   </a>
-</div>
+</p>
 
 ---
 
-### 🔗 Socials
+## `> contact`
 
-<div align="center">
-  <a href="https://www.twitch.tv/Root33011">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch" />
-  </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord" />
-  </a>
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter" />
-  </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin" />
-  </a>
-</div>
+<p align="center">
 
-<br/>
+<a href="https://root3301.fr">
+  <img src="https://img.shields.io/badge/Website-root3301.fr-18181B?style=for-the-badge&logo=firefoxbrowser&logoColor=white">
+</a>
+<a href="https://github.com/Rooot3301">
+  <img src="https://img.shields.io/badge/GitHub-Rooot3301-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.twitch.tv/Root33011">
+  <img src="https://img.shields.io/badge/Twitch-Root33011-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+</a>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rooot3301.Rooot3301" />
-</div>
+</p>
+
+<p align="center">
+  <code>root@root3301.fr:~$ █</code>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rooot3301.Rooot3301" alt="Profile visitors">
+</p>
